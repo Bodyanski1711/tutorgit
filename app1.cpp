@@ -36,16 +36,16 @@ int main()
 
 			int* GEN = new int[N];
 
-			for (null)
+			for (i=0;i < N;i++ )
 			{
-				GEN[null] = rand() % lim;
+				GEN[N] = rand() % lim;
 
 
 			}
 
 			for (int i = 0; i < N; i++)
 			{
-				cout << GEN[null] << " " << "\t";
+				cout << GEN[N] << " " << "\t";
 
 			}
 			cout << endl;
