@@ -23,7 +23,7 @@ int main()
 	cout << "Ваш ответ: ";
 	cin >> ANSu;
 	cout << endl;
-	if 
+	if(ANSu == ANSc) 
 	{
 		cout << "Ответ " << ANSu << " верный!";
 	}
